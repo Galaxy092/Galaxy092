@@ -27,6 +27,6 @@ React and NextJS Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Galaxy092"><img src="https://github-readme-stats.vercel.app/api?username=Galaxy092&theme=dark#gh-dark-mode-only&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=a855f7&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="Galaxy092's GitHub stats" /></a>
+<a href="http://www.github.com/Galaxy092"><img src="https://github-readme-stats.vercel.app/api?username=Galaxy092&theme=dark#gh-dark-mode-only&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=a855f7&icon_color=a855f7&bg_color=1c1917&hide_border=true" alt="Galaxy092's GitHub stats" /></a>
 
 <a href="http://www.github.com/Galaxy092"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Galaxy092&theme=dark#gh-dark-mode-only&stroke=a855f7&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=a855f7&currStreakLabel=a855f7&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
