@@ -6,7 +6,7 @@ React and NextJS Developer
 
 * 🌍  I'm based in Phnom Penh
 * ✉️  You can contact me at [096polideth@gmail.com](mailto:096polideth@gmail.com)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning Next.js and ASP.NET Core
 
 ### Skills
 
