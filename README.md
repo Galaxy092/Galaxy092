@@ -8,6 +8,8 @@ React and NextJS Developer
 * ✉️  You can contact me at [096polideth@gmail.com](mailto:096polideth@gmail.com)
 * 🧠  I'm learning Next.js, NestJS and ASP.NET Core
 
+### Live View Count
+![](https://gh-hits.nomadcoders.workers.dev/view?username=galaxy092)
 ### Skills
 
 [![Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,dotnet,react,redux,next,tailwind,nodejs,express,nestjs,graphql,postgres,py,figma,git,docker)](https://skillicons.dev)
