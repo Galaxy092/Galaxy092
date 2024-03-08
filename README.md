@@ -12,7 +12,7 @@ React and NextJS Developer
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=galaxy092)
 ### Skills
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,dotnet,react,redux,next,tailwind,nodejs,express,nestjs,graphql,postgres,py,figma,git,docker,jest)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,dotnet,react,redux,next,tailwind,nodejs,express,nestjs,graphql,postgres,py,figma,git,docker,jest,linux)](https://skillicons.dev)
 
 <b>My GitHub Stats</b>
 
