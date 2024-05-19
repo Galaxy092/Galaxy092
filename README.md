@@ -7,7 +7,7 @@
 
 ## Skills
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,react,redux,next,tailwind,nodejs,express,nestjs,graphql,postgres,py,figma,git,docker,jest,linux,cypress,aws)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,tailwind,nodejs,express,nestjs,graphql,postgres,py,figma,git,docker,jest,linux,cypress,aws)](https://skillicons.dev)
 
 ## My GitHub Stats
 
