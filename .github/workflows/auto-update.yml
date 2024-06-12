@@ -1,0 +1,40 @@
+name: Update README with Timestamp
+
+on:
+  schedule:
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-content:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: 🚀 Push Updates
+        run: |
+          # Update timestamp on README.md
+          README_START="## About Me"
+          README_END="<!-- END OF README -->"
+          TIMESTAMP_START="<!-- START OF UPDATED TIMESTAMP -->"
+          TIMESTAMP_END="<!-- END OF UPDATED TIMESTAMP -->"
+
+          HEAD=$(sed -n "/${README_START}/,/${TIMESTAMP_START}/p" README.md)
+          BODY=$(sed -n "/${TIMESTAMP_START}/,/${TIMESTAMP_END}/p" README.md | sed -e '1d;$d')
+          TAIL=$(sed -n "/${TIMESTAMP_END}/,/${README_END}/p" README.md)
+
+          DATE=$(TZ='Asia/Bangkok' date +'%d-%m-%Y %T')
+
+          # Override README.md
+          cat <<EOF > README.md
+          $HEAD
+          <sub>*Last updated on: $DATE*</sub>
+          $TAIL
+          EOF
+
+          # Push Changes
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git add README.md polydet.svg
+          git commit -m "Updated on $DATE"
+          git push
