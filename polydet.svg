@@ -299,9 +299,8 @@
   
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="220" height="66" rx="18.0355" class="bubble" />
-    <text x="15" y="30">React, NextJS</text>
-    <text x="15" y="50">and NestJS Developer</text>
+    <rect width="180" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Software Engineer</text>
   </g>
 
   <!-- typing 4 -->
@@ -350,8 +349,8 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="240" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I'm Typescript Enthusiast.</text>
+    <rect width="300" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I'm Typescript and C# Enthusiast.</text>
   </g>
 
   <!-- typing 6 -->
