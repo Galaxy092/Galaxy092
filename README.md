@@ -5,10 +5,6 @@
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=galaxy092)
 
-## Skills
-
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,tailwind,nodejs,express,nestjs,angular,graphql,postgres,py,figma,git,docker,jest,linux,cypress,aws,githubactions,dotnet)](https://skillicons.dev)
-
 ## My GitHub Stats
 
 <a href="http://www.github.com/Galaxy092"><img src="https://github-readme-stats.vercel.app/api?username=Galaxy092&show_icons=true&layout=compact&theme=dark" alt="Galaxy092's GitHub stats" /></a>
